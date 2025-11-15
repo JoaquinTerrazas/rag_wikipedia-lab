@@ -1,0 +1,10 @@
+[
+    {
+        "pregunta": "Explain federated learning challenges in healthcare.",
+        "respuesta": "Today's standard approach of centralizing data from multiple centers comes at the cost of critical concerns regarding patient privacy and data protection"
+    },
+    {
+        "pregunta": "What is the basic principle or definition of federated learning?",
+        "respuesta": "The general principle consists in training local models on local data samples and exchanging parameters (e.g. the weights and biases of a deep neural network) between these local nodes at some frequency to generate a global model shared by all nodes"
+    }
+]
